@@ -1,0 +1,24 @@
+{
+  "name": "iftttdatejs",
+  "version": "1.0.0",
+  "description": "Convert IFTTT OccurredAt string to Javascript Date object",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarepan/IFTTTdateJS.git"
+  },
+  "keywords": [
+    "IFTTT",
+    "OccurredAt",
+    "Date"
+  ],
+  "author": "Tarepan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tarepan/IFTTTdateJS/issues"
+  },
+  "homepage": "https://github.com/tarepan/IFTTTdateJS#readme"
+}
